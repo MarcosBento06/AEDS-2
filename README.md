@@ -16,7 +16,7 @@ Este repositório contém as implementações e estudos realizados durante a dis
 | **Alocação Encadeada** | Implementação de listas, pilhas e filas usando ponteiros. |
 | **Alocação Sequencial** | Estruturas de dados baseadas em vetores (arrays). |
 | **Árvore Binária de Busca** | Implementação de ABB (BST) com inserção, remoção e caminhamentos. |
-| **Árvore Monte (Heap)** | Estrutura de prioridade (Max-Heap/Min-Heap) e Heapsort. |
+| **Árvore Heap** | Estrutura de prioridade (Max-Heap/Min-Heap) e Heapsort. |
 | **Funções de Busca** | Algoritmos de busca sequencial e binária. |
 | **Tabela Hash** | Implementações de tabelas de dispersão e tratamento de colisões. |
 
