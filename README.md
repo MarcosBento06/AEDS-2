@@ -25,6 +25,8 @@ Este repositório contém as implementações e estudos realizados durante a dis
 ## 🚀 Como Executar
 Para compilar qualquer um dos projetos, navegue até a pasta desejada e utilize o comando:
 
+pasta
+
 ```bash
 gcc nome_do_arquivo.c -o programa
 ./programa
