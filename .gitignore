@@ -1,0 +1,13 @@
+# Arquivos executáveis
+*.exe
+
+# Arquivos de compilação
+*.o
+*.class
+
+# Pastas de configuração do VS Code
+.vscode/
+
+# Arquivos do sistema (Windows/Mac)
+.DS_Store
+Thumbs.db
